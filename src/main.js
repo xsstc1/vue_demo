@@ -8,6 +8,7 @@ import 'element-ui/lib/theme-chalk/index.css';
 
 Vue.config.productionTip = false
 Vue.use(ElementUI);
+console.log(123)
 
 new Vue({
   render: h => h(App),
